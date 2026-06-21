@@ -48,7 +48,7 @@ It supports multiple arithmetic, logical, and comparison operations with basic l
 
 ## 📸 Output Waveform
 
-![Waveform](wave_full.png)
+![Waveform](images/wave_full.png)
 
 ---
 
